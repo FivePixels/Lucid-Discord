@@ -1,0 +1,63 @@
+* {
+    font-family: SF Pro Text !important;
+}
+
+.name-uJV0GL {
+    line-height: 25px;
+}
+
+.theme-dark {
+    --background-primary: #12131a;
+    --background-primary: #12131a;
+    --background-secondary: #1d202e;
+    --background-secondary-alt: #1d202e;
+    --background-tertiary: #1d202e;
+    --spotify-color: #FFFFFF;
+    --channeltextarea-background: #1d202e;
+    --background-floating: #1d202e;
+    --scrollbar-thin-track: transparent;
+    --scrollbar-thin-thumb: transparent;
+    --scrollbar-auto-thumb: transparent;
+    --scrollbar-auto-track: transparent;
+    --scrollbar-auto-scrollbar-color-thumb: transparent;
+    --scrollbar-auto-scrollbar-color-track: transparent;
+}
+
+.peopleColumn-29fq28 {
+    background: #12131a;
+}
+
+.item-3HknzM {
+    background: #1d202e;
+}
+
+.members-1998pB {
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.container-2lgZY8 {
+    background: #12131a;
+}
+
+.container-2lgZY8 {
+    border-radius: 10px;
+    margin: 0px 10px 0px 10px;
+}
+
+.sidebar-2K8pFh {
+    border-radius: 10px;
+    margin: 0px 10px 0px 10px;
+}
+
+.guilds-1SWlCJ {
+    border-radius: 10px;
+}
+
+.unread-2lAfLh {
+    background-color: transparent;
+}
+
+.membersWrap-2h-GB4 {
+    margin-right: 15px;
+}

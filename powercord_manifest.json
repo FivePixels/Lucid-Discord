@@ -1,0 +1,9 @@
+{	
+  "name": "Lucid",
+  "description": "Lucid theme for Arch",
+  "version": "1.0",
+  "author": "FivePixels",
+  "license": "MIT",
+  "theme": "lucid.css",
+  "consent": "true"
+}
